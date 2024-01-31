@@ -32,6 +32,7 @@ These displays are a part of the CFAG graphics family and operate at 5V. Please 
 Crystalfontz Part Numbers:\
 [CFAG12232A-TMI-TA](https://www.crystalfontz.com/product/cfag12232atmita-graphical-display-module-lcd-122x32)\
 [CFAG12232A-YYH-TA](https://www.crystalfontz.com/product/cfag12232ayyhta-122x32-graphical-lcd-display-module)\
+[CFAG12232D1-NYG-VJ](https://www.crystalfontz.com/product/cfag12232d1nygvj)\
 [CFAG12232D1-YYH-VJ](https://www.crystalfontz.com/product/cfag12232d1yyhvj-122x32-transflective-graphic-lcd-display)\
 [CFAG12232J-TFH-TA](https://www.crystalfontz.com/product/cfag12232jtfhta-graphic-lcd-module-122x32)\
 [CFAG12232J-TMI-TA](https://www.crystalfontz.com/product/cfag12232jtmita-lcd-module-122x32-graphic)\
