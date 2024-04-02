@@ -35,6 +35,8 @@ Crystalfontz Part Numbers:\
 [CFAG12232D1-NYG-VJ](https://www.crystalfontz.com/product/cfag12232d1nygvj)\
 [CFAG12232D1-YYH-VJ](https://www.crystalfontz.com/product/cfag12232d1yyhvj-122x32-transflective-graphic-lcd-display)\
 [CFAG12232J-TFH-TA](https://www.crystalfontz.com/product/cfag12232jtfhta-graphic-lcd-module-122x32)\
+[CFAG12232J1-TFH-TJ](https://www.crystalfontz.com/product/cfag12232j1tfhtj)\
 [CFAG12232J-TMI-TA](https://www.crystalfontz.com/product/cfag12232jtmita-lcd-module-122x32-graphic)\
+[CFAG12232J1-TMI-TJ](https://www.crystalfontz.com/product/cfag12232j1tmitj)\
 [CFAG12232J-YYH-TA](https://www.crystalfontz.com/product/cfag12232jyyhta-graphic-lcd-122x32)\
 [CFAG12232K-YYH-TA](https://www.crystalfontz.com/product/cfag12232kyyhta-graphical-lcd-module-122x32)
