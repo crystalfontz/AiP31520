@@ -39,4 +39,4 @@ Crystalfontz Part Numbers:\
 [CFAG12232J-TMI-TA](https://www.crystalfontz.com/product/cfag12232jtmita-lcd-module-122x32-graphic)\
 [CFAG12232J1-TMI-TJ](https://www.crystalfontz.com/product/cfag12232j1tmitj)\
 [CFAG12232J-YYH-TA](https://www.crystalfontz.com/product/cfag12232jyyhta-graphic-lcd-122x32)\
-[CFAG12232K-YYH-TA](https://www.crystalfontz.com/product/cfag12232kyyhta-graphical-lcd-module-122x32)
+[CFAG12232K1-YYH-TA](https://www.crystalfontz.com/product/cfag12232k1yyhta-graphical-lcd-module-122x32)
